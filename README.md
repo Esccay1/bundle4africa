@@ -1,106 +1,70 @@
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
- <h1 align="center"> BMW X5 MD </h1>
+# Next.js E-Commerce template
 
+Ready to use [Next.js](https://nextjs.org) (TypeScript) starter kit for high-performance 
+e-commerce websites 🔥.
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-      
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗔𝗠+𝗕𝗠𝗪+𝗠𝗗+𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝗜𝗕𝗥𝗔𝗛𝗜𝗠)](https://git.io/typing-svg)
+Free 👍. Ready to use 😎. Just clone & deploy! 🤘
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
- 
-<p align="center"> BMW MD💥, A Simple WhatsApp user BOT, Created by Ibrahim Tech.
-</p>
-<p align="center">
+## Online Demo ⚡️
 
+[blank.demos.my-boundless.app](https://blank.demos.my-boundless.app/) - deployed to Netlify.
 
-  <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/3c753002fab985c1cb1e7.jpg" alt="01" border="0" /></a>                     
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
- <h1 align="center">  SCAN SESSION </h1>
- 
+## About Boundless Commerce
 
-[PAIRING CODE]  ***[`TAP HERE TO SCAN PAIRING CODE`](https://bmw-code-app-c1168f4953cd.herokuapp.com/pair)***
+![Boundless-commerce.com](assets/logo.svg)
 
+[Boundless-commerce.com](https://boundless-commerce.com/) - API’s First Headless E-commerce CMS: We Provide An 
+Admin-Side For Store Management, Powerful API, And Ready-To-Use Checkout Area.
 
-  
- [QR] ***[`TAP HERE TO SCAN QR`](https://bmw-code-app-c1168f4953cd.herokuapp.com/qr)***
+## Self-Hosted solution
 
+There is an option for Running Boundless-Commerce on your own server. Read more at [Open-Source Headless eCommerce Platform](https://boundless-commerce.com/open-source)
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-## Support 🧧 🧧 🧧 🧧
-## Join my channel for updates and get free cc
-<a href="https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-</p>
+## Getting Started
 
+1. Go to [Boundless-commerce.com](https://boundless-commerce.com/) and create a free account (no credit card required).
+2. Go to "Control panel" -> "Settings" -> "Access tokens" and create a new one: 
 
-HOW TO REACH THE OWNER? 
- 
-   
-   <a href="https://wa.me/message/74F2PC4JA4F3P1">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>&nbsp;&nbsp;
-   <a
+![](assets/settings-menu.png)
+![](assets/create-access-token-btn.png)
 
-    ## Ask any thing
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+3. Copy `.env.example` to `.env`
+4. Modify `.env`: put values for the `BOUNDLESS_API_PERMANENT_TOKEN` and `BOUNDLESS_INSTANCE_ID`, copy values from:
 
-## STEPS TO DEPLOY YOUR BOT
+![](assets/copy-credentials.png)
 
+5. Install dependencies: `yarn install`
+6. `yarn dev` - to start locally, then open `http://localhost:3000`
+7. If you want to have absolute URLs in the sitemap.xml and OpenGraph meta tags 
+you need to also specify `BOUNDLESS_BASE_URL`.
 
-1, Star the repo up there then click Here To  [`FORK`](https://github.com/ibrahimaitech/BMW-MD/fork)
+### Optional parameters
 
-2, TAP ON IBRAHIM TECH APP DOWN THERE
+- `BOUNDLESS_BASE_URL` - Base URL if you want to have absolute 
+URLs in the sitemap.xml and OpenGraph meta tags.
+- `BOUNDLESS_PRODUCTS_IMAGE_PROPORTION` - Specify resize proportion so product images in lists have 
+the same size. Possible values are: `1-1`, `2-3`, `3-2`,`4-5`, `5-4`, `3-4`, `4-3`, `16-9`, `9-16`.
 
+## What is included?
 
+Fully ready E-Commerce website with a hierarchical catalog, product widgets, 
+filters, and marketing components like sliders and carousels.
 
-3, CONNECT TO WHATSAPP WITH PAIRING CODE OR QR
+We developed the template keeping SEO in mind: schema markup, sitemap, and 
+all necessary meta-tags.
 
+Shopping cart with a nice animated widget and [Fully customizable React checkout](https://github.com/kirill-zhirnov/boundless-checkout-react).
 
+User friendly mobile version.
 
-4, TAP DEPLOY.., AND DEPLOY IT ON HEROKU ..Use Ibrahim Tech App..
+## Video tutorial
 
-## 𝘾𝙇𝙄𝘾𝙆 𝗢𝗡 HEROKU OR 𝗔𝗣𝗣 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬  𝘽𝙈𝙒 𝙈𝘿
+[![How to build React E-commerce Website with Next.js, TypeScript, and Redux in 2023 (Tutorial)](https://img.youtube.com/vi/BOZRLereGig/0.jpg)](https://youtu.be/BOZRLereGig "How to build React E-commerce Website with Next.js, TypeScript, and Redux in 2023 (Tutorial)")
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+## Ways to deploy Node.js Apps
 
- <h1 align="center">
+[![Ways to deploy NodeJs (and/or NextJS) apps - quick overview](https://img.youtube.com/vi/pRj0o-B57O4/0.jpg)](https://www.youtube.com/watch?v=pRj0o-B57O4 " Ways to deploy NodeJs (and/or NextJS) apps - quick overview")
 
-  ***[`TAP HERE TO DEPLOY ON HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/BMW-MD)***
+---
 
-
-
-
-
-
-
-  ***<p align="center"><a href="https://bmw-code-app-c1168f4953cd.herokuapp.com/">
- <img src="https://img.shields.io/badge/TAP%20HERE%20TO%20OPEN%20IBRAHIM%20TECH%20APP-Yellow?style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>***
-
-
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-   
-  
-
-
-
-
-## Contributions
-
-
-Contributions to *BMW-MD* are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
-## THANKS TO [GOD]
-
-## License
-
-The *BMW-MD* is released under the [MIT License](https://opensource.org/licenses/MIT).
-
-Enjoy the diverse features of the *BMW-MD*  to enhance your Whatsapp more enjoyable
-☣Powered by Ibrahim Tech
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+[NextJS eCommerce templates](https://boundless-commerce.com/templates) - Free. Ready to use. Just clone & deploy!
